@@ -54,10 +54,10 @@ AlphaShield is your ultimate terminal-sidekick 🦾 — built to **harden, audit
 ## ⚡ Installation
 
 ```bash
-git clone https://github.com/your-username/AlphaShield.git
-cd AlphaShield
+git clone https://github.com/hariharan136/Alpha-Shield.git
+cd Alpha-Shield
 chmod +x "Alpha Shield.sh"
-./Alpha\ Shield.sh
+./Alpha Shield.sh
 ```
 
 ---
